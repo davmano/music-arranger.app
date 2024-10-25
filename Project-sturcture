@@ -1,0 +1,16 @@
+music-arranger-app/
+├── backend/
+│   ├── server.js
+│   ├── routes/
+│   │   └── music.js
+│   └── controllers/
+│       └── musicController.js
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── components/
+│   │   └── services/
+│       └── utils/
+└── analysis/
+    └── analyze.py
